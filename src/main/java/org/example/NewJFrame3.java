@@ -58,6 +58,8 @@ public class NewJFrame3 extends javax.swing.JFrame {
 
 
 
+
+
             if (imagePlus != null) {
                 // Get the first slice if it's a stack
                 imagePlus.setSlice(1);
